@@ -1,6 +1,6 @@
 # Using User Session in Express.JS
 
-This is a small demo of using user sessions (read cookies) with an Express.JS app.
+This is a small demo of using user sessions (read cookies) with an Express.JS app. A sample cookie file is available in the `/tmp` folder in this repo.
 
 This project uses two NPM Packages
 
