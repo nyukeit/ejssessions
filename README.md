@@ -44,6 +44,8 @@ This initiates a user session as soon as you land on the homepage. You can verif
 
 This step initializes the secret which will then be displayed on `session-out`
 
+![](./images/sessionin.png)
+
 6. Go to `session-out` page to view the secret
 
    ```http
@@ -51,3 +53,5 @@ This step initializes the secret which will then be displayed on `session-out`
    ```
 
 You should see the message **'be bop a lula'** which means the session worked correctly. 
+
+![](./images/sessionout.png)
